@@ -38,7 +38,7 @@ a {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 60%;
+    width: 100%;
     margin-top: 25px;
     margin-bottom: 25px;
 border: solid 1px rgb(120, 47, 255);
@@ -46,7 +46,7 @@ border: solid 1px rgb(120, 47, 255);
 
 .singleimg-container > img {
     margin: 15px;
-    width: 250px;
+    width: 200px;
     height: auto;
 border: solid 1px rgb(91, 212, 21);
 }
